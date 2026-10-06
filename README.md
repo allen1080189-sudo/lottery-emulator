@@ -1,7 +1,7 @@
 # lottery-emulator
 Play the lottery for free
 
-<!DOCTYPE html>
+
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
