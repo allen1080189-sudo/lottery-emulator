@@ -39,7 +39,7 @@ Play the lottery for free
         .main-layout {
             display: flex;
             gap: 20px;
-            max-width: 1000px;
+            max-width: 1500px;
             width: 100%;
             align-items: flex-start;
         }
